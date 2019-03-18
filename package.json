@@ -1,0 +1,29 @@
+{
+  "name": "banker-js",
+  "version": "1.0.0",
+  "description": "A set of handy methods for credit card numbers and IBAN",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doalef/bankerjs.git"
+  },
+  "keywords": [
+    "bank",
+    "credit",
+    "card",
+    "IBAN",
+    "SHEBA",
+    "شماره شبا",
+    "بانک",
+    "شماره کارت"
+  ],
+  "author": "Amirali Ahmadi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/doalef/bankerjs/issues"
+  },
+  "homepage": "https://github.com/doalef/bankerjs#readme"
+}
